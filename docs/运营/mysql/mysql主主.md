@@ -1,15 +1,7 @@
 ## 1.系统环境
-<br>
-
-<span id="busuanzi_container_site_pv" style='display:none'>
-    本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
-</span>
-<span id="busuanzi_container_site_uv" style='display:none'>
-    本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
-</span>
-
-<br>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
+<div class="social-share"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
 ### 1.Linux : centos 7
   Mysql ：mysql5.7
 ### 2.卸載mariadb-lib
